@@ -1,7 +1,7 @@
 <h1 align="center">BMI Calculator App</h1>
 
 <p align="center">
-  <img src="https://github.com/NoushinTasnim/BMI-Calculator/blob/main/ss/1095.png" alt="App Screenshot" width="300" />
+  <img src="https://github.com/NoushinTasnim/BMI-Calculator/blob/main/ss/1095.png" alt="App Screenshot" width="700" />
 </p>
 
 <p align="center">
