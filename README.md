@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>A simple BMI (Body Mass Index) calculator app built with Flutter.</strong>
+  <strong>A retro-themed simple BMI (Body Mass Index) calculator app built with Flutter.</strong>
 </p>
 
 ## Features
