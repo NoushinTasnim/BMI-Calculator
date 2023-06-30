@@ -1,7 +1,7 @@
 <h1 align="center">BMI Calculator App</h1>
 
 <p align="center">
-  <img src="path_to_your_app_screenshot.png" alt="App Screenshot" width="300" />
+  <img src="https://github.com/NoushinTasnim/BMI-Calculator/blob/main/ss/1095.png" alt="App Screenshot" width="300" />
 </p>
 
 <p align="center">
@@ -13,10 +13,3 @@
 - Calculate BMI based on height and weight inputs
 - Categorize the BMI result into different weight status (e.g., Underweight, Normal, Overweight)
 - User-friendly interface and smooth user experience
-
-## Screenshots
-
-<p align="center">
-  <img src="
-https://github.com/NoushinTasnim/BMI-Calculator/blob/main/ss/1095.png" alt="Screenshot" width="500" />
-</p>
